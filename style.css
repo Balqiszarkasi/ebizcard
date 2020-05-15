@@ -2,7 +2,7 @@
 /* CSS for Business Card */
 
 html{
-    background-image: url(bgpastel.jpg;
+    background-image: url(bgpastel.jpg);
     overflow: none;
     background-size: cover;
     display: inline-block;
@@ -15,7 +15,7 @@ html{
     padding: 50px;
     border-radius: 5px;
 
-    background-color: #F5FFFA;
+    background-color: #fdf5f3;
     box-shadow: 1px 1px 10px rgba(0,0,0,30%);
 
     position: absolute;
@@ -39,20 +39,20 @@ html{
 
 #email{
     text-decoration: none;
-    color: #FFA07A;
+    color: #d18879;
 }
 
 #email:hover{
     text-decoration: none;
-    color: #B0E0E6;
+    color: #d18879;
 }
 
 .link{
     text-decoration: none;
-    color:  #FFA07A;
+    color:  #d18879;
 }
 
 .link:hover{
     text-decoration: none;
-    color: #B0E0E6;
+    color: #d18879;
 }
